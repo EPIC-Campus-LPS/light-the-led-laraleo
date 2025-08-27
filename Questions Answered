@@ -1,0 +1,4 @@
+What is the purpose of breadboard? The purpose of the breadboard is to be able to connect mujltiple items to one pin and to be able to create circuits.
+Does the LED orientation matter (cathode & abode)? Yes it does, the cathodegoes to the ground and the anodee goes to the power. This matters because otherwise your circuit will not work.
+Why do you put a resistor in your circuit? You put a resistor in your circuit because otherwise too much power would be going to the LED light and it would explode.
+How will a resisitor with greater resistance affect the light? When a resistor has greater resistance it absorbs more of your power, making the LED or other lights dimmer.
